@@ -59,10 +59,14 @@ ATAU
 Proses Pull (Mengambil Update dari Server)
 Lakukan ini sebelum mulai bekerja agar Anda mendapatkan versi terbaru dari rekan tim.
 
+<img src="images/Git pull.png">
+
 - Ambil data: git pull origin main
 
 Proses Push (Mengirim Update Baru)
 Lakukan ini setelah Anda selesai melakukan perubahan pada kode.
+
+<img src="images/PUSH GIT.png">
 
 - Cek Status: Pastikan file mana saja yang berubah.
   git status
