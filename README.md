@@ -1,20 +1,16 @@
 # Belajar-Github
 
 1. Pentingnya Penggunaan Command Line
-   Meskipun banyak aplikasi Git desktop (seperti GitHub Desktop atau GitKraken), CLI tetap menjadi standar industri karena beberapa alasan:
+   - Meskipun banyak aplikasi Git desktop (seperti GitHub Desktop atau GitKraken), CLI tetap menjadi standar industri karena beberapa alasan:
+   1. Kecepatan dan Efisiensi: Setelah hafal perintahnya, mengetik seringkali lebih cepat daripada navigasi menu klik.
+   2. Akses Fitur Penuh: Beberapa perintah Git tingkat lanjut hanya tersedia melalui CLI.
+   3. Otomatisasi (Scripting): Perintah CLI dapat dimasukkan ke dalam skrip untuk otomatisasi proses deployment (CI/CD).
+   4. Universal: CLI bekerja di hampir semua server (seperti Linux server) yang tidak memiliki antarmuka grafis.
 
-Kecepatan dan Efisiensi: Setelah hafal perintahnya, mengetik seringkali lebih cepat daripada navigasi menu klik.
-
-Akses Fitur Penuh: Beberapa perintah Git tingkat lanjut hanya tersedia melalui CLI.
-
-Otomatisasi (Scripting): Perintah CLI dapat dimasukkan ke dalam skrip untuk otomatisasi proses deployment (CI/CD).
-
-Universal: CLI bekerja di hampir semua server (seperti Linux server) yang tidak memiliki antarmuka grafis.
-
-2.  Langkah-langkah push repository
-    <img src="images/PUSH GIT.png">
-    Langkah-Langkah Push Repository (Pertama Kali)
-    Gunakan langkah ini saat Anda memiliki proyek lokal di komputer dan ingin mengunggahnya ke repositori daring (seperti GitHub/GitLab) untuk pertama kalinya.
+2. Langkah-langkah push repository
+   <img src="images/PUSH GIT.png">
+   Langkah-Langkah Push Repository (Pertama Kali)
+   Gunakan langkah ini saat Anda memiliki proyek lokal di komputer dan ingin mengunggahnya ke repositori daring (seperti GitHub/GitLab) untuk pertama kalinya.
 
 - Inisialisasi Git: Masuk ke folder proyek dan aktifkan Git.
   git init
